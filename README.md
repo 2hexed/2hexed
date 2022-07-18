@@ -1,1 +1,1 @@
-![nixk](https://github-readme-stats.vercel.app/api?username=yoboinixk&show_icons=true&theme=radical)
+![nixk](https://github-readme-stats.vercel.app/api?username=2hexed&show_icons=true&theme=radical)
