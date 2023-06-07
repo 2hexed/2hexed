@@ -1,5 +1,6 @@
 <div align="center">
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2hexed&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)
+<a href='https://2hexed.me/'>2hexed.me</a>
+![](https://komarev.com/ghpvc/?username=2hexed&style=for-the-badge)
 
 </div>
