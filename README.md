@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href='https://2hexed.me/'><code>2hexed.me</code></a>
-  
+<code style="font-family: 'century-gothic';">2hexed.me</code>
+
 <hr />
   
 ![:name](https://count.getloli.com/get/@:2hexed)
