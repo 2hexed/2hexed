@@ -1,12 +1,6 @@
 <div align="center">
 
-  <p style="text-align: center;">
-
-```
-https://2hexed.me/
-```
-
-  </p>
+<code onclick="window.location.href='https://2hexed.me/';">2hexed.me</code>
   
 <br />
 
