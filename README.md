@@ -1,7 +1,5 @@
 <div align="center">
 
-<sub style="font-family: century-gothic;">2hexed.me</sub>
-
 <hr />
   
 ![:name](https://count.getloli.com/get/@:2hexed)
