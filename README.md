@@ -1,6 +1,6 @@
 <div align="center">
 
-<code style="font-family: 'century-gothic';">2hexed.me</code>
+<span style="font-family: 'century-gothic';">2hexed.me</span>
 
 <hr />
   
