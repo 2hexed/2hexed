@@ -1,9 +1,11 @@
 <div align="center">
 
+  <p style="text-align: center;">
 ```
 https://2hexed.me/
 ```
-
+  </p>
+  
 <br />
 
 ![:name](https://count.getloli.com/get/@:2hexed)
