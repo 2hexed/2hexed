@@ -1,7 +1,11 @@
 <div align="center">
 
-<code>https://2hexed.me/<code>
-  
+```
+https://2hexed.me/
+```
+
+<br />
+
 ![:name](https://count.getloli.com/get/@:2hexed)
 
 <br />
