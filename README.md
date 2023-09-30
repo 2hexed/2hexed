@@ -12,4 +12,11 @@
 ```
 
   ![:2hexed](https://count.getloli.com/get/@:2hexed)
+
+  ```diff
+@@ 𓋹 @@
+```
+
+  <a href="https://gothicos.vercel.app/">GothicOS</a>
+  <a href="https://clorestore.vercel.app">CloreStore</a>
 </div>
