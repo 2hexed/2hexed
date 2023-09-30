@@ -17,6 +17,7 @@
 @@ 𓋹 @@
 ```
 
-  <a href="https://gothicos.vercel.app/">GothicOS</a>
-  <a href="https://clorestore.vercel.app">CloreStore</a>
+  <a href="https://gothicos.vercel.app/"><code>GothicOS</code></a>
+  <br />
+  <a href="https://clorestore.vercel.app"><code>CloreStore</code></a>
 </div>
