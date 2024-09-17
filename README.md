@@ -5,12 +5,7 @@
 @@ ✩ @@
 ```
 
-
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=1&width=300)
-
-  https://open.spotify.com/collection/tracks
-  
-  [![Spotify Track](https://open.spotify.com/track/7sryiWTi3viiDTN22f4tFy?si=c340f6d3a6d8449c)](https://open.spotify.com/track/7sryiWTi3viiDTN22f4tFy?si=c340f6d3a6d8449c)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=400)
 
   ```diff
 @@ ♱ @@
