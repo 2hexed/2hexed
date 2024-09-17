@@ -5,7 +5,8 @@
 @@ ✩ @@
 ```
 
-  <img alt="mona-loading" width="50" src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" />
+  [<img alt="mona-loading" width="50" src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" />](https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif)
+  
   ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=300)
 
   ```diff
