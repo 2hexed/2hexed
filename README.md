@@ -9,7 +9,7 @@
   ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=3&width=300)
 
   
-  [Spotify Track](https://open.spotify.com/track/7sryiWTi3viiDTN22f4tFy?si=c340f6d3a6d8449c)
+  [![Spotify Track](https://open.spotify.com/track/7sryiWTi3viiDTN22f4tFy?si=c340f6d3a6d8449c)](https://open.spotify.com/track/7sryiWTi3viiDTN22f4tFy?si=c340f6d3a6d8449c)
 
   ```diff
 @@ ♱ @@
