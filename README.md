@@ -11,7 +11,7 @@
 @@ ♱ @@
 ```  
 
-  ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=l6871vs6zyzjl45ctubllclc9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+  ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=l6871vs6zyzjl45ctubllclc9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
   ```diff
 @@ 𓋹 @@
