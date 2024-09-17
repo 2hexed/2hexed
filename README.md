@@ -13,6 +13,8 @@
 
   ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=300)
 
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=l6871vs6zyzjl45ctubllclc9&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=l6871vs6zyzjl45ctubllclc9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+
   ```diff
 @@ 𓋹 @@
 ```
