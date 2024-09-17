@@ -5,13 +5,13 @@
 @@ ✩ @@
 ```
   
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=300)
+  ![:2hexed](https://count.getloli.com/get/@:2hexed)
 
   ```diff
 @@ ♱ @@
 ```
 
-  ![:2hexed](https://count.getloli.com/get/@:2hexed)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=300)
 
   ```diff
 @@ 𓋹 @@
