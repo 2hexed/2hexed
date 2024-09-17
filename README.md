@@ -5,7 +5,7 @@
 @@ ✩ @@
 ```
 
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=400)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=l6871vs6zyzjl45ctubllclc9&unique=true&count=2&width=300)
 
   ```diff
 @@ ♱ @@
