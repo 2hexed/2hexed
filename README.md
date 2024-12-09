@@ -24,6 +24,7 @@
   <a href="https://gothicos.vercel.app/"><code>GothicOS</code></a>
   <br />
   <a href="https://clorestore.vercel.app"><code>CloreStore</code></a>
+  <br />
 
 ```diff
 @@ 𓆩♱𓆪 @@
